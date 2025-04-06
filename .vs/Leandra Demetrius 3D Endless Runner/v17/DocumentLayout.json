@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\collisiondetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisiondetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\menu\\mainmenufxn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\mainmenufxn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\endrunsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endrunsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\leveldistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leveldistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\segmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\segmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|d:\\unity\\leandra demetrius 3d endless runner\\assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\collectablerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectablerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|D:\\Unity\\Leandra Demetrius 3D Endless Runner\\assets\\scripts\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED3B21A-E27D-AB07-3B71-21F1429E0A63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Destroyer.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\Destroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destroyer.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\Destroyer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:31:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndRunSequence.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\EndRunSequence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndRunSequence.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\EndRunSequence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndRunSequence.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:22:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelDistance.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\LevelDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelDistance.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\LevelDistance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelDistance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:47:01.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionDetect.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollisionDetect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionDetect.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollisionDetect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionDetect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:14:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectCoin.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectCoin.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectCoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:49:52.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SegmentGenerator.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\SegmentGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SegmentGenerator.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\SegmentGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SegmentGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAywBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:51:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwIsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:04:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuFxn.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\Menu\\MainMenuFxn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MainMenuFxn.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\Menu\\MainMenuFxn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MainMenuFxn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:55:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelStarter.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\LevelStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelStarter.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\LevelStarter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelStarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:09:29.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectableRotate.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollectableRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectableRotate.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\CollectableRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectableRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:27:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MasterInfo.cs",
+              "DocumentMoniker": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\MasterInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MasterInfo.cs",
+              "ToolTip": "D:\\Unity\\Leandra Demetrius 3D Endless Runner\\Assets\\Scripts\\MasterInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MasterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:14:58.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
